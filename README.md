@@ -15,7 +15,7 @@
 
 ###
 
-<div align="left">
+<!--/*<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="2" />
    <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" height="30" alt="go logo"  />
@@ -35,13 +35,13 @@
 <!--   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" /> -->
+  <img width="12" /> 
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="2" />
 <!--   <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="fastapi logo"  /> -->
-</div>
+</div>--!>
 
 ###
 
